@@ -3,6 +3,35 @@
     margin: 0;
     background-image: url("back.jpg");
 
+    text-align: center;
+    margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    
+}
+.vision h2{
+    color:red;
+    margin-top: 20px;
+}
+.vision p{
+   
+    font-size: 20px;
+}
+.mission h2{
+    color: red;
+    
+}
+.mission p{
+
+    font-size: 20px;
+}
+.quality h2{
+    color: red;
+}
+.quality p{
+font-size: 20px;
+
+
     font-family: 'Josefin Sans', sans-serif;
 }
 .logo {
@@ -71,5 +100,6 @@ justify-content:align-center;
 }
 a:visited {
     color: black;
+
 
 }
