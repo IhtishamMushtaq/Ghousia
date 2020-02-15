@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     background-image: url("back.jpg");
+
     font-family: 'Josefin Sans', sans-serif;
 }
 .logo {
@@ -21,4 +22,54 @@
 }
 .logo p{
     color: blue;
+
+    
+}
+.bottom img{
+    display: flex;
+justify-content:align-center;
+    height: 100%;
+    width: 70%;
+  position: relative;
+  margin-top:100px;
+  
+}
+.footer{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.dev{
+    margin-top: 15px;
+    text-align: right;
+    margin-right: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.git {
+    width: 2cm;
+    height: 2cm;
+
+    
+}
+.a {
+    width: 0.5cm;
+    height: 0.5cm;
+    color: black;
+    
+}
+.nav {
+    height: 0.3cm;
+    width: 0.3cm;
+
+}
+.navigation {
+    margin-top: 1cm;
+    display: flex;
+    justify-content: space-evenly;
+}
+a:visited {
+    color: black;
+
 }
