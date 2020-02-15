@@ -4,3 +4,29 @@
     background-image: url("back.jpg");
     back
 }
+.bottom img{
+    display: flex;
+justify-content:align-center;
+    height: 100%;
+    width: 70%;
+  position: relative;
+  margin-top:100px;
+  
+}
+.footer{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.dev{
+    margin-top: 15px;
+    text-align: right;
+    margin-right: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.git {
+    width: 2cm;
+    height: 2cm;
+}
