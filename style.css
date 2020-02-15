@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     background-image: url("back.jpg");
+
     text-align: center;
     margin-top: 20px;
         margin-left: 20px;
@@ -29,4 +30,76 @@
 }
 .quality p{
 font-size: 20px;
+
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo {
+    display: flex;
+    flex-direction: row; 
+    margin: 10vh;
+}
+.logo img {
+    display: inline;
+    width: 12vw;
+    height: 12vw;
+    border-radius: 5rem;
+}
+.logo h1{
+    color: blue;
+    font-weight: bolder;
+}
+.logo p{
+    color: blue;
+
+    
+}
+.bottom img{
+    display: flex;
+justify-content:align-center;
+    height: 100%;
+    width: 70%;
+  position: relative;
+  margin-top:100px;
+  
+}
+.footer{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.dev{
+    margin-top: 15px;
+    text-align: right;
+    margin-right: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.git {
+    width: 2cm;
+    height: 2cm;
+
+    
+}
+.a {
+    width: 0.5cm;
+    height: 0.5cm;
+    color: black;
+    
+}
+.nav {
+    height: 0.3cm;
+    width: 0.3cm;
+
+}
+.navigation {
+    margin-top: 1cm;
+    display: flex;
+    justify-content: space-evenly;
+}
+a:visited {
+    color: black;
+
+
 }
