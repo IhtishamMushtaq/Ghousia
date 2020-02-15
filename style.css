@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     background-image: url("back.jpg");
-    back
+    
 }
 .bottom img{
     display: flex;
@@ -29,4 +29,26 @@ justify-content:align-center;
 .git {
     width: 2cm;
     height: 2cm;
+
+    
+}
+.a {
+    width: 0.5cm;
+    height: 0.5cm;
+    color: black;
+    
+}
+.nav {
+    height: 0.3cm;
+    width: 0.3cm;
+
+}
+.navigation {
+    margin-top: 1cm;
+    display: flex;
+    justify-content: space-evenly;
+}
+a:visited {
+    color: black;
+
 }
